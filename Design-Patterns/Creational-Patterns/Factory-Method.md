@@ -1,0 +1,3 @@
+Padrão Criacional baseado em fornecer uma interface abstrata para que superclasses( ou classes pai ) possam substituir para instanciar objetos mais específicos. A partir disso temos uma Factory onde faço a logica para mostrar apenas a instancia do objeto que quero para o usuário.
+
+Exemplo: Um sistema de notificações pode primeiro ser uma interface notification com um simples método abstrato de notificar o usuário; a partir disso posso usar essa interface para criar um SmsNotification, PushNotification ou EmailNotification apenas alterando o método abstrato para ser o que realmente quero; Depois disso temos a Factory que mostrara apenas as instancias certas para o usuário.

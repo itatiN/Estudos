@@ -1,0 +1,4 @@
+É um padrão de projeto que permite a criação de novos objetos a partir de um protótipo já existente, em vez de criar esse objeto do zero. Normalmente algumas características ou funções vão ser rescritas(normalmente usando @Override) para garantir que esse objeto seja exatamente o que você quer a partir do protótipo inicial. Uma das funções que o Prototype tem que ter é a de clone, para poder clonar esse protótipo e depois fazer alterações nele.
+
+Exemplo: A criação de um inimigo dentro de um jogo pode ser um Prototype de enemy com características como vida, dano e nome; e métodos como skill.
+Podemos fazer vários inimigos a partir desse protótipo clonando ele e fazendo as alterações necessárias.
