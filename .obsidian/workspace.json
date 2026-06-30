@@ -11,10 +11,14 @@
             "id": "22f9b7cec0d4878a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Design-Patterns/Creational-Patterns/Singleton.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Singleton"
             }
           }
         ]
@@ -176,16 +180,20 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "22f9b7cec0d4878a",
+  "active": "56a52c7597ecf437",
   "lastOpenFiles": [
-    "Leetcodes/Two Sum.md",
-    "Leetcodes/Missing Number.md",
-    "Leetcodes",
-    "Design-Patterns/Creational-Patterns/Singleton.md",
+    "Design-Patterns/Sem título",
     "Design-Patterns/Creational-Patterns/Prototype.md",
+    "Design-Patterns/Creational-Patterns/Factory-Method.md",
     "Design-Patterns/Creational-Patterns/Builder.md",
     "Design-Patterns/Creational-Patterns/Abstract-Factory.md",
-    "Design-Patterns/Creational-Patterns/Factory-Method.md",
+    "Leetcodes/Best Time to Buy and Sell Stock.md",
+    "Leetcodes/Baseball Game.md",
+    "Leetcodes/Contains Duplicate II.md",
+    "Leetcodes/Two Sum.md",
+    "Leetcodes/Missing Number.md",
+    "Design-Patterns/Creational-Patterns/Singleton.md",
+    "Leetcodes",
     "Python/Sets.md",
     "Design-Patterns/Creational-Patterns",
     "Design-Patterns",
